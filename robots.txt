@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danielzhu.github.io/al-folio/sitemap.xml
+Sitemap: https://dizyweather.github.io/al-folio/sitemap.xml
