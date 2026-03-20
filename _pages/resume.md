@@ -7,6 +7,18 @@ nav: true
 ---
 Last Updated: Mar 2026
 
-<div class="pdf-container" width="100%" height="2000px">
-<iframe src="/assets/pdf/resume.pdf#toolbar=1" > </iframe>
+<style>
+  .pdf-container {
+    width: 100%;
+    height: 100vh;
+  }
+  .pdf-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>
+
+<div class="pdf-container">
+<iframe src="/assets/pdf/resume.pdf#toolbar=1"></iframe>
 </div>
