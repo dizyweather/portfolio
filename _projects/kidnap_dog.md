@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: with background image
-img: assets/kidnap_dog/robodog_walk.gif
+img: assets/img/kidnap_dog/robodog_walk.gif
 importance: 1
 category: work
 related_publications: true
