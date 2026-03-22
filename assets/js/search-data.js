@@ -439,11 +439,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-bees-like-jazz",
-          title: 'Bees like Jazz',
+            },},{id: "projects-honeybee-swarm-formation",
+          title: 'Honeybee Swarm Formation',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/bee/";
+              window.location.href = "/projects/bees/";
             },},{id: "projects-kidnap-dog",
           title: 'Kidnap_dog',
           description: "with background image",
