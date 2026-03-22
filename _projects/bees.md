@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Bees like Jazz
+title: Honeybee Swarm Formation
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/bees/swarm.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
