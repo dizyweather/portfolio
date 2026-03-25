@@ -3,7 +3,6 @@ layout: page
 title: Honeybee Swarm Formation
 description: a project that redirects to another website
 img: assets/img/bees/swarm.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
